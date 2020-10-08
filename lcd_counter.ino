@@ -14,5 +14,6 @@ void loop(){
   lcd.print("Button Pressed");
   lcd.setCursor(0,1);
   lcd.print(count++);
+  while(digitalRead(pushButton) == HIGH);
   }
 }
