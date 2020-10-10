@@ -1,4 +1,4 @@
-;Program to turn on the dot LED
+;Program to turn on the dot LED on 7 segment display
 ;Change the filepath as per your system location
 
 .include "/home/spoken/Assembly/m328Pdef.inc"
