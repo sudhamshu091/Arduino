@@ -1,7 +1,7 @@
 ;Program to turn on the dot LED on 7 segment display
 ;Change the filepath as per your system location
 
-.include "/home/spoken/Assembly/m328Pdef.inc"
+.include "C:\users\sudha/Downloads/m328Pdef.inc"
 
 ;Configure pins 2-7 on Arduino as Output
 ldi r16, 0b11111100
