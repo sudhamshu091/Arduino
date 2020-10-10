@@ -1,6 +1,6 @@
 ;Change the filepath as per your system location
 
-.include "/home/spoken/Assembly/m328Pdef.inc"
+.include "C:\users\sudha\Desktop\m328Pdef.inc"
 
 ;Configure pins 2,3,4 and 5 on Arduino as Output
 ldi r16, 0b00111100
